@@ -1,2 +1,0 @@
-# PraneethVarma
-C# basic syntax
